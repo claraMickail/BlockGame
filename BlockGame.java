@@ -1,4 +1,4 @@
-package assignment3;
+package myPackage3;
 
 //This code was provided
 
