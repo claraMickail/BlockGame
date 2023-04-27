@@ -1,4 +1,4 @@
-package assignment3;
+package myPackage3;
 
 import java.awt.Color;
 
